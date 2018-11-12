@@ -1,0 +1,5 @@
+[run]
+include = school_newspaper_ela/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin

@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=school_newspaper_ela
+POSTGRES_USER=cbVDjCtKPoKVUdhGfAHtkBYjBXYuXMna
+POSTGRES_PASSWORD=thgXGTd80ZCLcL7RKlEBUP7nihTAhbWjZ4Y548PI9ZZXqvS9RwjkQhsJeqLHBJuO
